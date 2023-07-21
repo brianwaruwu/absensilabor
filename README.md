@@ -1,8 +1,4 @@
-#Ui
-
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+![Abensi Kafetaria](https://github.com/brianwaruwu/absensilabor/assets/75604684/fe06d68a-f893-44fb-839e-12b165d9678a)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
